@@ -1,0 +1,11 @@
+{
+  "port": 3000,
+  "turnstile-secret": "",
+  "database-uri": "mongodb://localhost:27017/",
+  "redis-credentials": {
+    "address": "",
+    "password": "2"
+  },
+  "discord-webhook": "",
+  "openai-go": ""
+}

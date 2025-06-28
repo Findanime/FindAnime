@@ -1,0 +1,169 @@
+{
+    "categories": [
+        {
+            "type": "anime",
+            "items": [
+                {
+                    "id": 1735,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden",
+                    "url": "https://myanimelist.net/anime/1735/Naruto__Shippuuden",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1565/111305.jpg?s=18353b65b2737d85e8ad3d8d91562c6a",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1565/111305.jpg?s=10e908f30452aaadde72422547ab90dc",
+                    "payload": {
+                        "media_type": "TV",
+                        "start_year": 2007,
+                        "aired": "Feb 15, 2007 to Mar 23, 2017",
+                        "score": "8.28",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 8.987394
+                },
+                {
+                    "id": 13667,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 6 - Road to Ninja",
+                    "url": "https://myanimelist.net/anime/13667/Naruto__Shippuuden_Movie_6_-_Road_to_Ninja",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1620/94336.jpg?s=c4a9d2fbfa9e5820815c9cba62c6afb2",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1620/94336.jpg?s=e5b635dbde0a0ae49001e62cc4c82e0d",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2012,
+                        "aired": "Jul 28, 2012",
+                        "score": "7.68",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 7.8212614
+                },
+                {
+                    "id": 10589,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 5 - Blood Prison",
+                    "url": "https://myanimelist.net/anime/10589/Naruto__Shippuuden_Movie_5_-_Blood_Prison",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1500/134496.jpg?s=bdb5cd4eedb1f02c66e2e1c9f54362fa",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1500/134496.jpg?s=11b5040362f28380817419a34213f55c",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2011,
+                        "aired": "Jul 30, 2011",
+                        "score": "7.46",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 7.186083
+                },
+                {
+                    "id": 442,
+                    "type": "anime",
+                    "name": "Naruto Movie 1: Dai Katsugeki!! Yuki Hime Ninpouchou Dattebayo!",
+                    "url": "https://myanimelist.net/anime/442/Naruto_Movie_1__Dai_Katsugeki_Yuki_Hime_Ninpouchou_Dattebayo",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1231/134484.jpg?s=f3e0de240ccc9e46d0a9f0e22f7c6af7",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1231/134484.jpg?s=7182456f7009a9b87a398b2fb5ecc8d2",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2004,
+                        "aired": "Aug 21, 2004",
+                        "score": "7.12",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 6.6935487
+                },
+                {
+                    "id": 4437,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 2 - Kizuna",
+                    "url": "https://myanimelist.net/anime/4437/Naruto__Shippuuden_Movie_2_-_Kizuna",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1484/134494.jpg?s=eb5a508c434b879783c2be834323bc79",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1484/134494.jpg?s=35a3de2d7e8fe0ee269671fb308def37",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2008,
+                        "aired": "Aug 2, 2008",
+                        "score": "7.28",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 6.6443615
+                },
+                {
+                    "id": 28755,
+                    "type": "anime",
+                    "name": "Boruto: Naruto the Movie",
+                    "url": "https://myanimelist.net/anime/28755/Boruto__Naruto_the_Movie",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/4/78280.jpg?s=29bf130a602b63ad903a4003611054dd",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/4/78280.jpg?s=4be719372f3214d83b5a3f8a5845776d",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2015,
+                        "aired": "Aug 7, 2015",
+                        "score": "7.38",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 6.508163
+                },
+                {
+                    "id": 2472,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 1",
+                    "url": "https://myanimelist.net/anime/2472/Naruto__Shippuuden_Movie_1",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1703/134493.jpg?s=0ee6264af4ea1e2d322a435d5e9516a7",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1703/134493.jpg?s=bc65f0d34ca0b2fcbb0a23224e3c67c4",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2007,
+                        "aired": "Aug 4, 2007",
+                        "score": "7.29",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 6.3523464
+                },
+                {
+                    "id": 8246,
+                    "type": "anime",
+                    "name": "Naruto: Shippuuden Movie 4 - The Lost Tower",
+                    "url": "https://myanimelist.net/anime/8246/Naruto__Shippuuden_Movie_4_-_The_Lost_Tower",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1479/116734.jpg?s=c868cdbfcfdbfc2f55b514f3a7e1ae14",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1479/116734.jpg?s=2d3aeb37f7e37834fa898e83a5b122c3",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2010,
+                        "aired": "Jul 31, 2010",
+                        "score": "7.42",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 6.2774973
+                },
+                {
+                    "id": 936,
+                    "type": "anime",
+                    "name": "Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!",
+                    "url": "https://myanimelist.net/anime/936/Naruto_Movie_2__Dai_Gekitotsu_Maboroshi_no_Chiteiiseki_Dattebayo",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1114/134485.jpg?s=8cc810d24bf14fd25448f3118a878649",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1114/134485.jpg?s=277d8a5011e16a739b5e11ea3e9ab06a",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2005,
+                        "aired": "Aug 6, 2005",
+                        "score": "6.88",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 5.984776
+                },
+                {
+                    "id": 16870,
+                    "type": "anime",
+                    "name": "The Last: Naruto the Movie",
+                    "url": "https://myanimelist.net/anime/16870/The_Last__Naruto_the_Movie",
+                    "image_url": "https://cdn.myanimelist.net/r/116x180/images/anime/1491/134498.jpg?s=e7cf86566500b3f699be30c214bedbcc",
+                    "thumbnail_url": "https://cdn.myanimelist.net/r/116x76/images/anime/1491/134498.jpg?s=13a18878c6cfa615e190803aad06ca69",
+                    "payload": {
+                        "media_type": "Movie",
+                        "start_year": 2014,
+                        "aired": "Dec 6, 2014",
+                        "score": "7.79",
+                        "status": "Finished Airing"
+                    },
+                    "es_score": 5.9508867
+                }
+            ]
+        }
+    ]
+}
